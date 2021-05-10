@@ -13,7 +13,7 @@
   "author": "anchvy <anchvys@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "next": "^9.0.5",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
